@@ -16,13 +16,13 @@
 
 - 🔭 I’m currently working on **Something Intresting**
 
-- 🌱 I’m currently learning **SpringBoot Development**
+- 🌱 I’m currently learning **SpringAI Development**
 
 - 👯 I’m looking to collaborate on **SpringBoot Projects**
 
 - 🤝 I’m looking for help with **Competitive Programming**
 
-- 💬 Ask me about **Spring Boot, and Full Stack Development**
+- 💬 Ask me about **React.js, Spring Boot, and Full Stack Development**
 
 - 📫 How to reach me **Yashhsharma03@gmail.com**
 
